@@ -1,4 +1,4 @@
-// Corey Mann and Jane Ataman
+// Corey M. and Jane A.
 
 import DigiPet from './DigiPet';
 
