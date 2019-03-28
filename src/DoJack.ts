@@ -1,7 +1,7 @@
 /*
 N A M E S: 
-Amanda Jackson
-Cassie Doyle
+Amanda J.
+Cassie D.
 */
 
 import DigiPet from './DigiPet';
