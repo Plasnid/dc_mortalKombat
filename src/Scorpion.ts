@@ -1,5 +1,5 @@
-// Chathura Senevirathna
-//Aval Joshi
+// Chathura S.
+//Aval J.
 
 import DigiPet from './DigiPet';
 
