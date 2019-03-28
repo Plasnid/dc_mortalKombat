@@ -1,4 +1,4 @@
-// Ayaka Rogoza 100666518, Ya-Ju, Chang 100671662
+// Ayaka R., Ya-Ju
 
 import DigiPet from './DigiPet';
 
