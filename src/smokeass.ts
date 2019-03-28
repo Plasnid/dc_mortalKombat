@@ -1,6 +1,6 @@
 // Team - SmokeyAss
-// kalpesh Agrawal
-// Sonali Parihar
+// kalpesh A.
+// Sonali P.
 
 import DigiPet from './DigiPet';
 
